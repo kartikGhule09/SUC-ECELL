@@ -1,7 +1,7 @@
 import React from "react";
 import "./Timeline.css";
 import image1 from "../assets/image1.png";
-import pdf from "../assets/tnc24.pdf";
+import pdf from "../assets/tnc26.pdf";
 
 const TimeLine = () => (
   <div>
@@ -91,7 +91,7 @@ const TimeLine = () => (
                       </a>
                     </h4>
                     <p className="text-lg leading-snug text-gray-50">
-                      Top 15 startups pitch their ideas before industry leaders.
+                      Top 10 startups pitch their ideas before industry leaders.
                     </p>
                   </div>
                 </div>
